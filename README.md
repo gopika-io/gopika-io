@@ -1,6 +1,7 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Gopika%20PS&fontSize=60&fontColor=8B5CF7&stroke=8B5CF6&strokeWidth=1&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=72&descColor=ffffff" alt="Gopika PS banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Gopika%20PS&fontSize=60&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=72&descColor=ffffff" alt="Gopika PS banner"/>
+
 </p>
 
 <!-- Typing animation -->
