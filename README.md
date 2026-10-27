@@ -24,16 +24,15 @@
 
 ### About me
 
-Part AI, part creator — with a camera roll full of ideas.
+𝑃𝑎𝑟𝑡 𝐴𝐼. 𝑃𝑎𝑟𝑡 𝑐𝑟𝑒𝑎𝑡𝑜𝑟.  
+𝑀𝑜𝑠𝑡𝑙𝑦 𝑗𝑢𝑠𝑡 𝑐𝑢𝑟𝑖𝑜𝑢𝑠 𝑎𝑏𝑜𝑢𝑡 𝑤ℎ𝑎𝑡 𝐼 𝑐𝑎𝑛 𝑏𝑢𝑖𝑙𝑑.
 
-Somewhere between code, creativity, and curiosity, that's probably where you'll find me.
+𝑆𝑜𝑚𝑒𝑤ℎ𝑒𝑟𝑒 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑐𝑜𝑑𝑒, 𝑐𝑟𝑒𝑎𝑡𝑖𝑣𝑖𝑡𝑦, 𝑎𝑛𝑑 𝑎 𝑐𝑎𝑚𝑒𝑟𝑎 𝑟𝑜𝑙𝑙 𝑓𝑢𝑙𝑙 𝑜𝑓 𝑖𝑑𝑒𝑎𝑠 — 𝑡ℎ𝑎𝑡'𝑠 𝑝𝑟𝑜𝑏𝑎𝑏𝑙𝑦 𝑤ℎ𝑒𝑟𝑒 𝑦𝑜𝑢'𝑙𝑙 𝑓𝑖𝑛𝑑 𝑚𝑒.
 
-I like turning ideas into something real, whether it's through code, content, or simply trying something new.
+𝐼 𝑒𝑛𝑗𝑜𝑦 𝑡𝑢𝑟𝑛𝑖𝑛𝑔 𝑟𝑎𝑛𝑑𝑜𝑚 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑟𝑒𝑎𝑙 — 𝑤ℎ𝑒𝑡ℎ𝑒𝑟 𝑡ℎ𝑎𝑡'𝑠 𝑡ℎ𝑟𝑜𝑢𝑔ℎ 𝑐𝑜𝑑𝑒, 𝑐𝑜𝑛𝑡𝑒𝑛𝑡, 𝑜𝑟 𝑗𝑢𝑠𝑡 𝑡𝑟𝑦𝑖𝑛𝑔 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑛𝑒𝑤.
 
-code · create · explore · repeat
-
-Still exploring. Still learning. Still building.
-One idea at a time.
+𝑁𝑜 𝑓𝑖𝑥𝑒𝑑 𝑑𝑖𝑟𝑒𝑐𝑡𝑖𝑜𝑛.  
+𝐽𝑢𝑠𝑡 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔, 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔, 𝑎𝑛𝑑 𝑠𝑒𝑒𝑖𝑛𝑔 𝑤ℎ𝑒𝑟𝑒 𝑖𝑡 𝑡𝑎𝑘𝑒𝑠 𝑚𝑒.
 ---
 
 ## 🛠️ Tech Stack
