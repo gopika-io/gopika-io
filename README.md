@@ -38,31 +38,4 @@ Tools       :: Git, GitHub, VS Code, Jupyter, [Docker]
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🧬 [Cancer Detection From DNA (Deep Learning)](https://github.com/gopika-io/Cancer-Detection-From-DNA-using-Deep-learning-and-hybrid-Method) | [One line: hybrid deep learning approach to detect cancer from DNA sequences, add accuracy if you have it] |
-| 🧬 [Cancer Detection From DNA (ML)](https://github.com/gopika-io/Cancer-Detection-From-DNA-using-Machine-Learning) | [One line: classical ML pipeline for DNA-based cancer detection] |
-| 🤖 [Qwen LLM Fine-tuning](https://github.com/gopika-io/qwen-llm-finetuning) | [One line: fine-tuning Qwen on a custom dataset for ...] |
-| 🍳 [Recipe Generation GPT](https://github.com/gopika-io/recipe-generation-gpt) | [One line: GPT-based recipe generator from ingredients] |
-| 🛒 [Product Description Generator](https://github.com/gopika-io/Product_Description_Generator) | [One line: generates product descriptions using ...] |
-| 📷 [OpenCV Face Image Collector](https://github.com/gopika-io/OpenCV-Based-Face-Image-Collector) | [One line: collects face image datasets using OpenCV] |
-| 🌦️ [Real-Time Weather App](https://github.com/gopika-io/Real-Time-Weather-app) | [One line: live weather app using ... API] |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gopika-io&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-io&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-I'm open to internships, collaborations, and conversations about AI/ML. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/[your-linkedin-id]) or by [email](mailto:[your-email]).
-
-<p align="center"><i>⭐ If you like any of my projects, a star is always appreciated!</i></p>
