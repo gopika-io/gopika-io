@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/gopika-io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Gopika+PS;AI%2FML+Engineer+%7C+Python+Developer" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Gopika;Where+data%2C+code%2C+and+curiosity+meet;AI%2FML+Engineer+%7C+Data+Analyst+%7C+Generative+AI+Developer;LLM+Fine-tuning+%7C+Deep+Learning+%7C+Computer+Vision" alt="Typing animation"/>
   </a>
 </p>
 
