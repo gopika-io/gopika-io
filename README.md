@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gopika 👋</h1>
 
-<h3 align="center">[Your role, e.g. Aspiring AI/ML Engineer | Python Developer | Computer Vision Enthusiast]</h3>
+<h3 align="center">[AI/ML Engineer | Python Developer | Data Analyst]</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[your-linkedin-id]"><img src="https://img.shields.io/badge/LinkedIn-Gopika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
