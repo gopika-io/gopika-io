@@ -69,30 +69,6 @@ AI/ML engineer with hands-on experience in machine learning pipelines, LLM fine-
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Duration |
-|---|---|---|
-| **Trainee – Machine Learning** | Tensaw Technologies | Dec 2025 – Present |
-| **AI/ML Intern** | Tensaw Technologies | Aug 2025 – Dec 2025 |
-
-- Developed scalable ML/AI pipelines for real-world applications
-- Gained hands-on experience fine-tuning LLMs using **AWS Bedrock**
-- Applied data analysis, machine learning, and statistical modeling concepts end to end through project work
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🧬 [**Cancer Detection From DNA (Hybrid DL)**](https://github.com/gopika-io/Cancer-Detection-From-DNA-using-Deep-learning-and-hybrid-Method) | Detects cancer from DNA methylation patterns using a CNN and a hybrid CNN-LSTM that captures both spatial and sequential features, outperforming baseline models | `Python` `TensorFlow` `Keras` |
-| 🧬 [**Cancer Detection From DNA (ML)**](https://github.com/gopika-io/Cancer-Detection-From-DNA-using-Machine-Learning) | Baseline pipeline using Random Forest, Decision Tree, and SVM on DNA methylation data | `scikit-learn` `Pandas` `NumPy` |
-| 🍳 [**Recipe Generator**](https://github.com/gopika-io/recipe-generation-gpt) | Predicts recipe names and cooking steps from user-provided ingredients, upgraded from an MLP to a GPT-based model | `Python` `Streamlit` `OpenAI API` |
-| 🤖 [**Qwen LLM Fine-tuning**](https://github.com/gopika-io/qwen-llm-finetuning) | Fine-tuning the Qwen language model on a custom dataset | `PyTorch` `Hugging Face` |
-| 📷 [**OpenCV Face Image Collector**](https://github.com/gopika-io/OpenCV-Based-Face-Image-Collector) | Collects face image datasets using computer vision | `OpenCV` `Python` |
-
----
 
 ## 📄 Publication
 
