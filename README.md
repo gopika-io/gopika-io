@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gopika-io/gopika-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gopika
 
-Here are some ideas to get you started:
+### AI/ML Engineer · Generative AI · LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical AI systems and exploring what comes next in AI.
+
+<br>
+
+**AI/ML · GenAI · LLMs · RAG · MLOps**
+
+<br>
+
+[**Portfolio**](YOUR_LINK) &nbsp; [**LinkedIn**](YOUR_LINK) &nbsp; [**Instagram**](YOUR_LINK)
+
+</div>
+
+---
+
+### About me
+
+AI/ML Engineer with a background in Artificial Intelligence & Data Science, currently working with machine learning, generative AI and LLM-based applications.
+
+I enjoy turning ideas into practical systems — from model development and fine-tuning to APIs, deployment and experimentation.
+
+### Currently exploring
+
+`RAG` · `Vector Databases` · `LangGraph` · `AI Agents` · `LLM Fine-tuning` · `MLOps`
+
+### Tech I work with
+
+**Python** · **PyTorch** · **TensorFlow** · **Scikit-learn** · **Hugging Face** · **FastAPI** · **Streamlit** · **Docker** · **AWS**
+
+---
+
+<div align="center">
+
+*building, learning, experimenting.*
+
+</div>
