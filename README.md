@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/gopika-io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gopika+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Developer;LLM+Fine-tuning+%7C+Deep+Learning+%7C+Generative+AI;IEEE+Published+Researcher" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Gopika+PS;AI%2FML+Engineer+%7C+Python+Developer" alt="Typing animation"/>
   </a>
 </p>
 
@@ -57,13 +57,7 @@
 **Machine Learning Architecture for Detection of Cancer from DNA**
 Published in the **IEEE Xplore Digital Library**, presented at the 2025 4th International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS 2025).
 
-## Certifications
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning-57534E?style=flat-square&labelColor=1C1917)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20using%20R-57534E?style=flat-square&labelColor=1C1917)
-![Microsoft](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Generative%20AI-57534E?style=flat-square&labelColor=1C1917)
-
----
 
 ## GitHub Stats
 
