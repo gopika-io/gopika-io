@@ -1,19 +1,19 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=200&section=header&text=Gopika%20PS&fontSize=60&fontColor=EEF2FF&stroke=818CF8&strokeWidth=1&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=72&descColor=A5B4FC" alt="Gopika PS banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1C1917&height=200&section=header&text=Gopika%20PS&fontSize=60&fontColor=FAFAF9&stroke=E0B25B&strokeWidth=1&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=72&descColor=A8A29E" alt="Gopika PS banner"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/gopika-io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gopika+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Developer;LLM+Fine-tuning+%7C+Deep+Learning+%7C+Generative+AI;IEEE+Published+Researcher" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gopika+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Developer;LLM+Fine-tuning+%7C+Deep+Learning+%7C+Generative+AI;IEEE+Published+Researcher" alt="Typing animation"/>
   </a>
 </p>
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopika-ps-310704376/"><img src="https://img.shields.io/badge/LINKEDIN-Gopika%20PS-312E81?style=for-the-badge&labelColor=1E1B4B&logo=linkedin&logoColor=818CF8" alt="LinkedIn"/></a>
-  <a href="mailto:gopikaoff10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-gopikaoff10%40gmail.com-312E81?style=for-the-badge&labelColor=1E1B4B&logo=gmail&logoColor=818CF8" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/gopika-ps-310704376/"><img src="https://img.shields.io/badge/LINKEDIN-Gopika%20PS-292524?style=for-the-badge&labelColor=1C1917&logo=linkedin&logoColor=E0B25B" alt="LinkedIn"/></a>
+  <a href="mailto:gopikaoff10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-gopikaoff10%40gmail.com-292524?style=for-the-badge&labelColor=1C1917&logo=gmail&logoColor=E0B25B" alt="Email"/></a>
 </p>
 
 ---
@@ -34,21 +34,21 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=818CF8)
-![SQL](https://img.shields.io/badge/SQL-312E81?style=for-the-badge&logo=postgresql&logoColor=818CF8)
-![PyTorch](https://img.shields.io/badge/PyTorch-312E81?style=for-the-badge&logo=pytorch&logoColor=818CF8)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-312E81?style=for-the-badge&logo=tensorflow&logoColor=818CF8)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-312E81?style=for-the-badge&logo=scikitlearn&logoColor=818CF8)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-312E81?style=for-the-badge&logo=huggingface&logoColor=818CF8)
-![OpenCV](https://img.shields.io/badge/OpenCV-312E81?style=for-the-badge&logo=opencv&logoColor=818CF8)
-![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=818CF8)
-![NumPy](https://img.shields.io/badge/NumPy-312E81?style=for-the-badge&logo=numpy&logoColor=818CF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-312E81?style=for-the-badge&logo=fastapi&logoColor=818CF8)
-![Streamlit](https://img.shields.io/badge/Streamlit-312E81?style=for-the-badge&logo=streamlit&logoColor=818CF8)
-![Gradio](https://img.shields.io/badge/Gradio-312E81?style=for-the-badge&logo=gradio&logoColor=818CF8)
-![Docker](https://img.shields.io/badge/Docker-312E81?style=for-the-badge&logo=docker&logoColor=818CF8)
-![AWS](https://img.shields.io/badge/AWS-312E81?style=for-the-badge&logo=amazonwebservices&logoColor=818CF8)
-![Git](https://img.shields.io/badge/Git-312E81?style=for-the-badge&logo=git&logoColor=818CF8)
+![Python](https://img.shields.io/badge/Python-292524?style=for-the-badge&logo=python&logoColor=E0B25B)
+![SQL](https://img.shields.io/badge/SQL-292524?style=for-the-badge&logo=postgresql&logoColor=E0B25B)
+![PyTorch](https://img.shields.io/badge/PyTorch-292524?style=for-the-badge&logo=pytorch&logoColor=E0B25B)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-292524?style=for-the-badge&logo=tensorflow&logoColor=E0B25B)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-292524?style=for-the-badge&logo=scikitlearn&logoColor=E0B25B)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-292524?style=for-the-badge&logo=huggingface&logoColor=E0B25B)
+![OpenCV](https://img.shields.io/badge/OpenCV-292524?style=for-the-badge&logo=opencv&logoColor=E0B25B)
+![Pandas](https://img.shields.io/badge/Pandas-292524?style=for-the-badge&logo=pandas&logoColor=E0B25B)
+![NumPy](https://img.shields.io/badge/NumPy-292524?style=for-the-badge&logo=numpy&logoColor=E0B25B)
+![FastAPI](https://img.shields.io/badge/FastAPI-292524?style=for-the-badge&logo=fastapi&logoColor=E0B25B)
+![Streamlit](https://img.shields.io/badge/Streamlit-292524?style=for-the-badge&logo=streamlit&logoColor=E0B25B)
+![Gradio](https://img.shields.io/badge/Gradio-292524?style=for-the-badge&logo=gradio&logoColor=E0B25B)
+![Docker](https://img.shields.io/badge/Docker-292524?style=for-the-badge&logo=docker&logoColor=E0B25B)
+![AWS](https://img.shields.io/badge/AWS-292524?style=for-the-badge&logo=amazonwebservices&logoColor=E0B25B)
+![Git](https://img.shields.io/badge/Git-292524?style=for-the-badge&logo=git&logoColor=E0B25B)
 
 ---
 
@@ -59,21 +59,21 @@ Published in the **IEEE Xplore Digital Library**, presented at the 2025 4th Inte
 
 ## Certifications
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning-312E81?style=flat-square&labelColor=1E1B4B)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20using%20R-312E81?style=flat-square&labelColor=1E1B4B)
-![Microsoft](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Generative%20AI-312E81?style=flat-square&labelColor=1E1B4B)
+![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning-292524?style=flat-square&labelColor=1C1917)
+![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20using%20R-292524?style=flat-square&labelColor=1C1917)
+![Microsoft](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Generative%20AI-292524?style=flat-square&labelColor=1C1917)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gopika-io&show_icons=true&hide_border=true&bg_color=1E1B4B&title_color=818CF8&text_color=EEF2FF&icon_color=818CF8" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-io&layout=compact&hide_border=true&bg_color=1E1B4B&title_color=818CF8&text_color=EEF2FF" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gopika-io&show_icons=true&hide_border=true&bg_color=1C1917&title_color=E0B25B&text_color=FAFAF9&icon_color=E0B25B" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-io&layout=compact&hide_border=true&bg_color=1C1917&title_color=E0B25B&text_color=FAFAF9" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopika-io&hide_border=true&background=1E1B4B&ring=818CF8&fire=818CF8&currStreakNum=EEF2FF&sideNums=EEF2FF&currStreakLabel=818CF8&sideLabels=A5B4FC&dates=A5B4FC&stroke=312E81" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopika-io&hide_border=true&background=1C1917&ring=E0B25B&fire=E0B25B&currStreakNum=FAFAF9&sideNums=FAFAF9&currStreakLabel=E0B25B&sideLabels=A8A29E&dates=A8A29E&stroke=292524" alt="GitHub streak"/>
 </p>
 
 ---
@@ -85,5 +85,5 @@ I'm open to AI/ML opportunities, collaborations, and conversations about researc
 <p align="center"><i>⭐ If you like any of my projects, a star is always appreciated!</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1B4B&height=100&section=footer&stroke=818CF8&strokeWidth=1" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1C1917&height=100&section=footer&stroke=E0B25B&strokeWidth=1" alt="Footer"/>
 </p>
