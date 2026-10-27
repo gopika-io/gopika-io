@@ -21,15 +21,18 @@
 
 ## 🚀 About Me
 
-AI/ML engineer with hands-on experience in machine learning pipelines, LLM fine-tuning, and data-driven solution building. I enjoy turning research ideas into working products, from deep learning models for healthcare to generative AI applications. Currently strengthening my applied ML skills through industry training at **Tensaw Technologies**.
+### About me
 
-- 🔭 Currently working on: **Scalable ML/AI pipelines and LLM fine-tuning on AWS Bedrock**
-- 🌱 Currently learning: **MLOps, model deployment, and advanced Generative AI**
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**, Jyothi Engineering College (KTU)
-- 📍 Based in: **Kerala, India**
-- 📄 Published: **IEEE Xplore** (ACCESS 2025)
-- 💬 Ask me about: **Machine Learning, Deep Learning, LLMs, NLP, OpenCV**
+Part AI, part creator — with a camera roll full of ideas.
 
+Somewhere between code, creativity, and curiosity, that's probably where you'll find me.
+
+I like turning ideas into something real, whether it's through code, content, or simply trying something new.
+
+code · create · explore · repeat
+
+Still exploring. Still learning. Still building.
+One idea at a time.
 ---
 
 ## 🛠️ Tech Stack
