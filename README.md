@@ -35,7 +35,7 @@
 𝐽𝑢𝑠𝑡 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔, 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔, 𝑎𝑛𝑑 𝑠𝑒𝑒𝑖𝑛𝑔 𝑤ℎ𝑒𝑟𝑒 𝑖𝑡 𝑡𝑎𝑘𝑒𝑠 𝑚𝑒.
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=000000&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=000000&logo=postgresql&logoColor=white)
@@ -54,12 +54,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=000000&logo=git&logoColor=white)
 ---
 
-## 📄 Publication
+##  Publication
 
 **Machine Learning Architecture for Detection of Cancer from DNA**
 Published in the **IEEE Xplore Digital Library**, presented at the 2025 4th International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS 2025).
 
-## 🏅 Certifications
+##  Certifications
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning-F97316?style=flat-square)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20using%20R-F97316?style=flat-square)
@@ -67,7 +67,7 @@ Published in the **IEEE Xplore Digital Library**, presented at the 2025 4th Inte
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gopika-io&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="GitHub stats"/>
@@ -80,7 +80,7 @@ Published in the **IEEE Xplore Digital Library**, presented at the 2025 4th Inte
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm open to AI/ML opportunities, collaborations, and conversations about research and applied machine learning. Reach me on [LinkedIn](https://www.linkedin.com/in/gopika-ps) or by [email](mailto:gopikaoff10@gmail.com).
 
