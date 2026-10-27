@@ -13,9 +13,9 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopika-ps"><img src="https://img.shields.io/badge/LINKEDIN-Gopika%20PS-0A66C2?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gopika-ps-310704376/"><img src="https://img.shields.io/badge/LINKEDIN-Gopika%20PS-0A66C2?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gopikaoff10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-gopikaoff10%40gmail.com-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gopika-io&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=000000" alt="Profile views"/>
+
 </p>
 
 ---
